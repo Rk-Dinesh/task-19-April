@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.inner-box {
+   margin: auto;
+   padding-top: 20%;
+    
+}
+#count {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    display: block;
+    border: none;
+    background-color: black;
+    text-shadow: red 2px 5px 10px;
+    color:white;
+}
